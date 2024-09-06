@@ -1,0 +1,1250 @@
+[
+    {
+        "station_name": "U Adenauerplatz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Adlershof (Berlin)",
+        "district": "Treptow-Koepenick"
+    },
+    {
+        "station_name": "U Afrikanische Str. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S Ahrensfelde Bhf (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "S+U Alexanderplatz Bhf (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Alt-Mariendorf (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "S Alt-Reinickendorf (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "U Alt-Tegel (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "U Alt-Tempelhof (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "S Altglienicke (Berlin)",
+        "district": "Treptow-Koepenick"
+    },
+    {
+        "station_name": "U Altstadt Spandau (Berlin)",
+        "district": "Spandau"
+    },
+    {
+        "station_name": "U Amrumer Str. (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Anhalter Bahnhof (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "S Attilastr. (Berlin)",
+        "district": "Tempelhof-Schoeneberg"
+    },
+    {
+        "station_name": "U Augsburger Str. (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Babelsberg",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Baumschulenweg (Berlin)",
+        "district": "Treptow-Koepenick"
+    },
+    {
+        "station_name": "U Bayerischer Platz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Bellevue (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S Bergfelde",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S+U Berlin Hauptbahnhof",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Berliner Str. (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Bernau Bhf",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Bernau-Friedenstal",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U Bernauer Str. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S Betriebsbahnhof Rummelsburg (Berlin)",
+        "district": "Lichtenberg"
+    },
+    {
+        "station_name": "S Betriebsbahnhof Sch\u00f6neweide (Berlin)",
+        "district": "Lichtenberg"
+    },
+    {
+        "station_name": "S Beusselstr. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S Biesdorf (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "U Biesdorf-S\u00fcd (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "S Birkenstein",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U Birkenstr. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S Birkenwerder Bhf",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U Bismarckstr. (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Blankenburg (Berlin)",
+        "district": "Pankow"
+    },
+    {
+        "station_name": "S Blankenfelde (TF) Bhf",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U Blaschkoallee (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "U Blissestr. (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Boddinstr. (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "S Borgsdorf",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Bornholmer Str. (Berlin)",
+        "district": "Pankow"
+    },
+    {
+        "station_name": "U Borsigwerke (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "S Botanischer Garten (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "S+U Brandenburger Tor (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Breitenbachplatz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Britz-S\u00fcd (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "S Buch (Berlin)",
+        "district": "Pankow"
+    },
+    {
+        "station_name": "S Buckower Chaussee (Berlin)",
+        "district": "Tempelhof-Schoeneberg"
+    },
+    {
+        "station_name": "S+U Bundesplatz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Bundestag (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U B\u00fclowstr. (Berlin)",
+        "district": "Tempelhof-Schoeneberg"
+    },
+    {
+        "station_name": "S Charlottenburg Bhf (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Cottbusser Platz (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "U Dahlem-Dorf (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Deutsche Oper (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Eberswalder Str. (Berlin)",
+        "district": "Pankow"
+    },
+    {
+        "station_name": "S Eichborndamm (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "S Eichwalde",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U Eisenacher Str. (Berlin)",
+        "district": "Tempelhof-Schoeneberg"
+    },
+    {
+        "station_name": "U Elsterwerdaer Platz (Berlin)",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Erkner Bhf",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U Ernst-Reuter-Platz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Fehrbelliner Platz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Feuerbachstr. (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "S Flughafen Berlin-Sch\u00f6nefeld Bhf",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S+U Frankfurter Allee (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "U Frankfurter Tor (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "U Franz-Neumann-Platz (Am Sch\u00e4fersee) (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Franz\u00f6sische Str. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S Fredersdorf",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U Freie Universit\u00e4t (Thielplatz) (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Friedenau (Berlin)",
+        "district": "Tempelhof-Schoeneberg"
+    },
+    {
+        "station_name": "U Friedrich-Wilhelm-Platz (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "U Friedrichsfelde (Berlin)",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Friedrichsfelde Ost (Berlin)",
+        "district": "Lichtenberg"
+    },
+    {
+        "station_name": "S Friedrichshagen (Berlin)",
+        "district": "Treptow-Koepenick"
+    },
+    {
+        "station_name": "S+U Friedrichstr. Bhf (Berlin)",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Frohnau (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "S Gehrenseestr. (Berlin)",
+        "district": "Lichtenberg"
+    },
+    {
+        "station_name": "S+U Gesundbrunnen Bhf (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Gleisdreieck (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "U Gneisenaustr. (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "S Greifswalder Str. (Berlin)",
+        "district": "Pankow"
+    },
+    {
+        "station_name": "U Grenzallee (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "S Griebnitzsee Bhf",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Grunewald (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Gr\u00fcnau (Berlin)",
+        "district": "Treptow-Koepenick"
+    },
+    {
+        "station_name": "S Gr\u00fcnbergallee (Berlin)",
+        "district": "Treptow-Koepenick"
+    },
+    {
+        "station_name": "U G\u00f6rlitzer Bahnhof (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "U G\u00fcntzelstr. (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Hackescher Markt (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Halemweg (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Halensee (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "U Hallesches Tor (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "U Hansaplatz (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Haselhorst (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "U Hausvogteiplatz (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S Heerstr. (Berlin)",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Hegerm\u00fchle",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S+U Heidelberger Platz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Heiligensee (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "U Heinrich-Heine-Str. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Hellersdorf (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "S Hennigsdorf Bhf",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U Hermannplatz (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "S+U Hermannstr. (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "S Hermsdorf (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "S Hirschgarten (Berlin)",
+        "district": "Treptow-Koepenick"
+    },
+    {
+        "station_name": "S Hohen Neuendorf",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Hohensch\u00f6nhausen Bhf (Berlin)",
+        "district": "Lichtenberg"
+    },
+    {
+        "station_name": "S Hohenzollerndamm (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Hohenzollernplatz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Holzhauser Str. (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "S Hoppegarten",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Humboldthain (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U H\u00f6now (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "S+U Innsbrucker Platz (Berlin)",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U Jakob-Kaiser-Platz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S+U Jannowitzbr\u00fccke (Berlin)",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U Johannisthaler Chaussee (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "S Julius-Leber-Br\u00fccke (Berlin)",
+        "district": "Tempelhof-Schoeneberg"
+    },
+    {
+        "station_name": "S+U Jungfernheide Bhf (Berlin)",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U Kaiserdamm (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Kaiserin-Augusta-Str. (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "S+U Karl-Bonhoeffer-Nervenklinik (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "U Karl-Marx-Str. (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "S Karlshorst Bhf (Berlin)",
+        "district": "Lichtenberg"
+    },
+    {
+        "station_name": "S Karow Bhf (Berlin)",
+        "district": "Pankow"
+    },
+    {
+        "station_name": "S Kaulsdorf (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "U Kaulsdorf-Nord (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "U Kienberg (G\u00e4rten der Welt) (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "U Kleistpark (Berlin)",
+        "district": "Tempelhof-Schoeneberg"
+    },
+    {
+        "station_name": "U Klosterstr. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Kochstr./Checkpoint Charlie (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "U Konstanzer Str. (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Kottbusser Tor (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "U Krumme Lanke (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "U Kurf\u00fcrstendamm (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Kurf\u00fcrstenstr. (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "U Kurt-Schumacher-Platz (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S K\u00f6llnische Heide (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "S K\u00f6nigs Wusterhausen Bhf",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S K\u00f6penick (Berlin)",
+        "district": "Treptow-Koepenick"
+    },
+    {
+        "station_name": "S Landsberger Allee (Berlin)",
+        "district": "Lichtenberg"
+    },
+    {
+        "station_name": "S Lankwitz (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "S Lehnitz",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U Leinestr. (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "U Leopoldplatz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S+U Lichtenberg Bhf (Berlin)",
+        "district": "Lichtenberg"
+    },
+    {
+        "station_name": "S Lichtenrade (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "S Lichterfelde Ost Bhf (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "S Lichterfelde S\u00fcd (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "S Lichterfelde West (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "U Lindauer Allee (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Lipschitzallee (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "U Louis-Lewin-Str. (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "U Magdalenenstr. (Berlin)",
+        "district": "Lichtenberg"
+    },
+    {
+        "station_name": "S Mahlow",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Mahlsdorf (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "S Marienfelde (Berlin)",
+        "district": "Tempelhof-Schoeneberg"
+    },
+    {
+        "station_name": "S Marzahn (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "U Mehringdamm (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "S Mehrower Allee (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "U Mendelssohn-Bartholdy-Park (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "S Messe Nord/ICC (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Messe S\u00fcd (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Mexikoplatz (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "U Mierendorffplatz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Mohrenstr. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Moritzplatz (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "U M\u00e4rkisches Museum (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U M\u00f6ckernbr\u00fccke (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "S M\u00fchlenbeck-M\u00f6nchm\u00fchle",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U Naturkundemuseum (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Nauener Platz (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Neu-Westend (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Neuenhagen",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S+U Neuk\u00f6lln (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "S Nikolassee (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "U Nollendorfplatz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Nordbahnhof (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S N\u00f6ldnerplatz (Berlin)",
+        "district": "Lichtenberg"
+    },
+    {
+        "station_name": "S Oberspree (Berlin)",
+        "district": "Treptow-Koepenick"
+    },
+    {
+        "station_name": "U Olympia-Stadion (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Olympiastadion (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Onkel Toms H\u00fctte (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "S Oranienburg Bhf",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Oranienburger Str. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Oranienburger Tor (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S Osdorfer Str. (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "U Oskar-Helene-Heim (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Osloer Str. (Berlin)",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Ostbahnhof (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "S Ostkreuz Bhf (Berlin)",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U Otisstr. (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "S+U Pankow (Berlin)",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Pankow-Heinersdorf (Berlin)",
+        "district": "Pankow"
+    },
+    {
+        "station_name": "U Pankstr. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Paracelsus-Bad (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Paradestr. (Berlin)",
+        "district": "Tempelhof-Schoeneberg"
+    },
+    {
+        "station_name": "U Parchimer Allee (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "U Paulsternstr. (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "S Petershagen Nord",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Pichelsberg (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Platz der Luftbr\u00fccke (Berlin)",
+        "district": "Tempelhof-Schoeneberg"
+    },
+    {
+        "station_name": "S Pl\u00e4nterwald (Berlin)",
+        "district": "Treptow-Koepenick"
+    },
+    {
+        "station_name": "U Podbielskiallee (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Poelchaustr. (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "S Potsdam Hauptbahnhof",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S+U Potsdamer Platz Bhf (Berlin)",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Prenzlauer Allee (Berlin)",
+        "district": "Pankow"
+    },
+    {
+        "station_name": "S Priesterweg (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "U Prinzenstr. (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "S Rahnsdorf (Berlin)",
+        "district": "Treptow-Koepenick"
+    },
+    {
+        "station_name": "S Raoul-Wallenberg-Str. (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "U Rathaus Neuk\u00f6lln (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "U Rathaus Reinickendorf (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "U Rathaus Sch\u00f6neberg (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S+U Rathaus Spandau (Berlin)",
+        "district": "Spandau"
+    },
+    {
+        "station_name": "S+U Rathaus Steglitz (Berlin)",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U Rehberge (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Reinickendorfer Str. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Residenzstr. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Richard-Wagner-Platz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Rohrdamm (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Rosa-Luxemburg-Platz (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Rosenthaler Platz (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Rudow (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "U Ruhleben (Berlin)",
+        "district": "Spandau"
+    },
+    {
+        "station_name": "S Rummelsburg (Berlin)",
+        "district": "Lichtenberg"
+    },
+    {
+        "station_name": "S R\u00f6ntgental",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U R\u00fcdesheimer Platz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Samariterstr. (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "S Savignyplatz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Scharnweberstr. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S Schichauweg (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "U Schillingstr. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S Schlachtensee (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "U Schlesisches Tor (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "U Schlo\u00dfstr. (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "S Schulzendorf (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "U Schwartzkopffstr. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S Sch\u00f6neberg (Berlin)",
+        "district": "Tempelhof-Schoeneberg"
+    },
+    {
+        "station_name": "S Sch\u00f6neweide Bhf (Berlin)",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Sch\u00f6nflie\u00df",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S+U Sch\u00f6nhauser Allee (Berlin)",
+        "district": "Pankow"
+    },
+    {
+        "station_name": "S Sch\u00f6nholz (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Sch\u00f6nleinstr. (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "U Seestr. (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Senefelderplatz (Berlin)",
+        "district": "Pankow"
+    },
+    {
+        "station_name": "U Siemensdamm (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Sonnenallee (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "U Sophie-Charlotte-Platz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Spandau Bhf (Berlin)",
+        "district": "Spandau"
+    },
+    {
+        "station_name": "U Spichernstr. (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Spindlersfeld (Berlin)",
+        "district": "Treptow-Koepenick"
+    },
+    {
+        "station_name": "U Spittelmarkt (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S Springpfuhl (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "U Stadtmitte (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S Storkower Str. (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "S Strausberg Nord",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Strausberg Stadt",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U Strausberger Platz (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "S Stresow (Berlin)",
+        "district": "Spandau"
+    },
+    {
+        "station_name": "S Sundgauer Str. (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "S S\u00fcdende (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "S S\u00fcdkreuz Bhf (Berlin)",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U S\u00fcdstern (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "S Tegel (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "S Teltow Stadt",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S+U Tempelhof (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "U Theodor-Heuss-Platz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Tiergarten (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Tierpark (Berlin)",
+        "district": "Lichtenberg"
+    },
+    {
+        "station_name": "S Treptower Park (Berlin)",
+        "district": "Treptow-Koepenick"
+    },
+    {
+        "station_name": "U Turmstr. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Uhlandstr. (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Ullsteinstr. (Berlin)",
+        "district": "Tempelhof-Schoeneberg"
+    },
+    {
+        "station_name": "U Viktoria-Luise-Platz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Vinetastr. (Berlin)",
+        "district": "Pankow"
+    },
+    {
+        "station_name": "U Voltastr. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S Waidmannslust (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "U Walther-Schreiber-Platz (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "S Wannsee Bhf (Berlin)",
+        "district": "Steglitz-Zehlendorf"
+    },
+    {
+        "station_name": "S+U Warschauer Str. (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "S Wartenberg (Berlin)",
+        "district": "Lichtenberg"
+    },
+    {
+        "station_name": "U Weberwiese (Berlin)",
+        "district": "Friedrichshain-Kreuzberg"
+    },
+    {
+        "station_name": "S+U Wedding (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Weinmeisterstr. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S Westend (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S+U Westhafen (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Westkreuz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Westphalweg (Berlin)",
+        "district": "Tempelhof-Schoeneberg"
+    },
+    {
+        "station_name": "S Wildau",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Wilhelmshagen (Berlin)",
+        "district": "Treptow-Koepenick"
+    },
+    {
+        "station_name": "S Wilhelmsruh (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "U Wilmersdorfer Str. (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S+U Wittenau (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "U Wittenbergplatz (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "S Wollankstr. (Berlin)",
+        "district": "Mitte"
+    },
+    {
+        "station_name": "S+U Wuhletal (Berlin)",
+        "district": "Marzahn-Hellersdorf"
+    },
+    {
+        "station_name": "S Wuhlheide (Berlin)",
+        "district": "Treptow-Koepenick"
+    },
+    {
+        "station_name": "U Wutzkyallee (Berlin)",
+        "district": "Neukoelln"
+    },
+    {
+        "station_name": "S+U Yorckstr. (Berlin)",
+        "district": "Tempelhof-Schoeneberg"
+    },
+    {
+        "station_name": "S+U Yorckstr. S1 U7 (Berlin)",
+        "district": "Tempelhof-Schoeneberg"
+    },
+    {
+        "station_name": "S+U Yorckstr. S2 S25 U7 (Berlin)",
+        "district": "Tempelhof-Schoeneberg"
+    },
+    {
+        "station_name": "S Zehlendorf (Berlin)",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Zepernick",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "S Zeuthen",
+        "district": "Not Berlin"
+    },
+    {
+        "station_name": "U Zitadelle (Berlin)",
+        "district": "Reinickendorf"
+    },
+    {
+        "station_name": "S+U Zoologischer Garten Bhf (Berlin)",
+        "district": "Charlottenburg-Wilmersdorf"
+    },
+    {
+        "station_name": "U Zwickauer Damm (Berlin)",
+        "district": "Neukoelln"
+    }
+]
